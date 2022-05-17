@@ -3,7 +3,7 @@
 
 📫 How to reach me:
 - Email: asifagaria@lyarinet.com
-- Website: [lyarinet.com](lyarinet.com)
+- Website: [lyarinet.com](http://lyarinet.com)
 - 
 - 🌱 I’m currently learning:
 - JAVASCRIPT
