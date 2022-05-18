@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="center" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?asifagaria=anuraghazra&show_icons=true)">
+<img align="center" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?lyarinet=anuraghazra&show_icons=true)">
 
 📫 How to reach me:
 - Email: asifagaria@lyarinet.com
